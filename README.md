@@ -4,10 +4,10 @@
 ![Banner](https://github.com/SKaaalper/zenchain-validator-node/blob/main/zenchain.jpg)
 
 
-### **Introducing the first decentralized, EVM-compatible Bitcoin Layer 1, designed to enhance secure and seamless cross-chain interactions between Bitcoin and Ethereum. This innovation is a key part of the [Unizen](https://x.com/unizen_io) ecosystem, enabling a new era of interoperability and scalability for decentralized finance.**
+ **Introducing the first decentralized, EVM-compatible Bitcoin Layer 1, designed to enhance secure and seamless cross-chain interactions between Bitcoin and Ethereum. This innovation is a key part of the [Unizen](https://x.com/unizen_io) ecosystem, enabling a new era of interoperability and scalability for decentralized finance.**
 
 
-### **Zenchain has already secured [$200 million in funding](https://cryptorank.io/ico/unizen#funding-rounds), underscoring strong confidence and support from the blockchain community and investors.**
+ **Zenchain has already secured [$200 million in funding](https://cryptorank.io/ico/unizen#funding-rounds), underscoring strong confidence and support from the blockchain community and investors.**
 
 
 ## Zenchain Official Account
