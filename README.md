@@ -79,7 +79,7 @@ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method":
 
 6. Bind the Session Key to Your Wallet:
 
-### Add Zenchain RPC tok OKX wallet:
+### Add Zenchain RPC to OKX wallet:
 
 - **Network name** : `Zenchain Testnet`
 - **RPC URL**: `https://zenchain-testnet.api.onfinality.io/public`
