@@ -89,11 +89,11 @@ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method":
 
 **In OKX Wallet, make sure it’s set to the Zenchain Testnet network. Initiate a transaction with these details:**
 
-**To**: `0x0000000000000000000000000000000000000802`
+- **To**: `0x0000000000000000000000000000000000000802`
 
-**Amount**: `0`
+- **Amount**: `0`
 
-**Input Data**: `0xf1ec919c00000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000060` + `session key without 0x` go to your VPS and copy the `session key`
+- **Input Data**: `0xf1ec919c00000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000060` + `session key without 0x` go to your VPS and copy the `session key`
 
 7. Stop and Remove Docker Container:
 ```
