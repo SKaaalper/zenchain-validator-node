@@ -122,6 +122,9 @@ docker run \
 docker logs -f zenchain
 ```
 
+![Banner](https://github.com/SKaaalper/zenchain-validator-node/blob/main/zenchain2.png)
+
+
 9. Now, go to Validator Dashboard: [https://node.zenchain.io/#/staking](https://node.zenchain.io/#/staking)
 
 - Cick `Stake` > Click `To Your Account` > Click `Become a Validator` > Input any amount you want to stake > Click `Start Staking` and Done!
